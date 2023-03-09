@@ -6,7 +6,7 @@ import pickle
 
 # Simple dataset of three four features 
 # First of all load csv dataset file into dataframe
-dataset = pd.read_csv(?)
+dataset = pd.read_csv("hiring.csv")
 
 #print the dataset
 
